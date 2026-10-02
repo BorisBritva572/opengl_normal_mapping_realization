@@ -1,4 +1,4 @@
-# normal mapping (OpenGL)
+# Normal Mapping (OpenGL)
 В этом репозитории содержится программная реализация метода рельефного текстурирования Normal Mapping.
 
 # Управление
